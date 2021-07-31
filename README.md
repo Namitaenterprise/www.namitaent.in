@@ -1,7 +1,7 @@
-# www.namitaent.in
+# NAMITA ENTERPRISE
  <html>
 <head>
-<title>www.namitaent.in</title>
+
 <style>
 
 body {
@@ -25,4 +25,6 @@ body {
     display: inline-block;
     font-size: 10px;
     margin: 2px 2px;
-    cursor: pointer;
+    cursor: pointer;}
+ </style>
+</head>
