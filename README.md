@@ -28,3 +28,4 @@ body {
     cursor: pointer;}
  </style>
 </head>
+ <marquee><B><font color="RED">*****</font><font color="YELLOW">WELCOME TO OUR WEBSITE<font color="RED">*****</font></marquee></font>
